@@ -1,0 +1,1 @@
+print("działaj szmatexie")
